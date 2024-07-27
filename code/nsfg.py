@@ -161,3 +161,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    # imprimir el contenido de nsfg
+    
+import nsfg
+df = nsfg.ReadFemPreg()
+df
